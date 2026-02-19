@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0326-power-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
