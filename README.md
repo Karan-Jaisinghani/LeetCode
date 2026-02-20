@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0326-power-of-three) |
 ## Simulation
 |  |
@@ -52,4 +54,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
