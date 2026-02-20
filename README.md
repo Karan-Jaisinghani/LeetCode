@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0326-power-of-three) |
+## Simulation
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
