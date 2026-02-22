@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -55,13 +57,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0202-happy-number) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
