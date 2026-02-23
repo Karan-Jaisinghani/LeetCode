@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0326-power-of-three) |
 ## Simulation
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
