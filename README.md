@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
