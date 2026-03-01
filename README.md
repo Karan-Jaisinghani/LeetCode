@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0435-non-overlapping-intervals](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2057-smallest-index-with-equal-value](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0435-non-overlapping-intervals](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Linked List
@@ -61,10 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
