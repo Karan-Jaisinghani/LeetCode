@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0326-power-of-three) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
 |  |
 | ------- |
