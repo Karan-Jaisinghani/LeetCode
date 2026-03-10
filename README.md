@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [2057-smallest-index-with-equal-value](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -153,4 +154,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0724-find-pivot-index) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->
