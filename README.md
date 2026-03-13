@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [2057-smallest-index-with-equal-value](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 ## Math
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0412-fizz-buzz) |
 | [0976-largest-perimeter-triangle](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
 |  |
