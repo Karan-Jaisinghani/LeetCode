@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [2057-smallest-index-with-equal-value](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -117,12 +118,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0412-fizz-buzz) |
 | [0976-largest-perimeter-triangle](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0412-fizz-buzz) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0242-valid-anagram) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
