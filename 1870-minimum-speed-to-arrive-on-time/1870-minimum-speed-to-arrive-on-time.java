@@ -8,7 +8,7 @@ class Solution {
             }
         }
         double l = 1;
-        double r = Math.pow(10,9);
+        double r = Math.pow(10,7);
         while(l<=r){
             double count =0;
             int mid =(int)(r - (r - l)/2);
