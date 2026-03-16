@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1748-sum-of-unique-elements](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2057-smallest-index-with-equal-value](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Divide and Conquer
 |  |
 | ------- |
