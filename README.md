@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0412-fizz-buzz) |
 ## Prefix Sum
