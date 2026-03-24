@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1710-maximum-units-on-a-truck](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1748-sum-of-unique-elements](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2057-smallest-index-with-equal-value](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1710-maximum-units-on-a-truck](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2706-buy-two-chocolates](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2706-buy-two-chocolates) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1710-maximum-units-on-a-truck](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2706-buy-two-chocolates](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2706-buy-two-chocolates) |
