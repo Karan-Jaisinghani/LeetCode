@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0412-fizz-buzz) |
 | [0976-largest-perimeter-triangle](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [2427-number-of-common-factors](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -217,4 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
