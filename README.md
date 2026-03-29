@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Stack
 |  |
 | ------- |
