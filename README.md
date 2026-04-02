@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1710-maximum-units-on-a-truck](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1748-sum-of-unique-elements](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1816-truncate-sentence](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1816-truncate-sentence) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2057-smallest-index-with-equal-value](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/0412-fizz-buzz) |
+| [1816-truncate-sentence](https://github.com/Karan-Jaisinghani/LeetCode/tree/master/1816-truncate-sentence) |
 ## Prefix Sum
 |  |
 | ------- |
